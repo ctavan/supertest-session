@@ -34,7 +34,7 @@
     "url": "https://github.com/rjz/supertest-session/issues"
   },
   "dependencies": {
-    "cookiejar": "^2.0.1",
+    "cookiejar": "^2.1.2",
     "methods": "^1.1.1",
     "object-assign": "^4.0.1",
     "supertest": "^4.0.2"
